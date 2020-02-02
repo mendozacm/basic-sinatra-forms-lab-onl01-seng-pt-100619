@@ -7,7 +7,7 @@ erb :newteam
 end
 
 post '/team' do
-  team.erb
+  erb :team
 end
 
 
